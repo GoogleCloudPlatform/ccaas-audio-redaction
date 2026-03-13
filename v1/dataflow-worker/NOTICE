@@ -1,0 +1,16 @@
+Speech Redaction Framework
+Copyright 2026 Google LLC
+
+This product includes software developed at
+Google LLC (https://google.com).
+
+-------------------------------------------------------------------
+This product relies on the following open source software:
+
+1. FFmpeg (https://ffmpeg.org)
+   License: LGPL v2.1+
+   * This software uses code of FFmpeg licensed under the LGPLv2.1 and its source can be downloaded here: https://ffmpeg.org/download.html
+
+2. Pydub (https://github.com/jiaaro/pydub)
+   License: MIT License
+   Copyright (c) 2011 James Robert

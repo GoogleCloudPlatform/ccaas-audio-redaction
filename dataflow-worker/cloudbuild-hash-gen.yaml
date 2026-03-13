@@ -1,9 +1,0 @@
-steps:
-- name: 'python:3.10'
-  entrypoint: 'bash'
-  args:
-  - '-c'
-  - |
-    pip install pip-tools
-    pip-compile --generate-hashes requirements.txt
-    cat requirements.txt

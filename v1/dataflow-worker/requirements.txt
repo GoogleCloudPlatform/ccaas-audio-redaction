@@ -1,0 +1,5 @@
+google-cloud-speech
+google-cloud-dlp
+google-cloud-storage
+pydub
+ffmpeg-python
